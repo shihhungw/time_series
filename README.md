@@ -1,4 +1,3 @@
-# Time Series
 # Forecasting Mortgage Rates and Simulating Housing Prices Using ARIMAX
 
 This project implements an ARIMAX model to forecast 30-year U.S. benchmark mortgage rates and simulate the resulting effects on housing prices under various Loan-to-Value (LTV) ratios. We aim to balance model flexibility with interpretability, using economic variables as external regressors in a time series context.
